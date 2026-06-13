@@ -1,10 +1,12 @@
-# 🛡️ NetGuard GT - API REST de Gestión de Incidentes de Red
+LINK RENDER: https://juliosandoval-analisisb2026final.onrender.com
+
+#  NetGuard GT - API REST de Gestión de Incidentes de Red
 
 Este proyecto es un prototipo funcional de una API REST desarrollado en C# (.NET 8) con persistencia en SQLite. Su objetivo es automatizar y optimizar la administración, asignación y escalado de incidentes críticos en la infraestructura de telecomunicaciones de la empresa **NetGuard GT** en Guatemala.
 
 ---
 
-## 📋 1. Casos de Uso e Historias de Usuario (Rúbrica: 25 Pts)
+## 1. Casos de Uso e Historias de Usuario 
 
 A continuación se detallan los 10 escenarios clave del sistema, modelados bajo las reglas de negocio de la empresa:
 
@@ -60,7 +62,7 @@ A continuación se detallan los 10 escenarios clave del sistema, modelados bajo 
 
 ---
 
-## 🤖 2. Informe de Utilización de Inteligencia Artificial (Paso 5 del Examen)
+##  2. Informe de Utilización de Inteligencia Artificial (Paso 5 del Examen)
 
 En cumplimiento con los requerimientos académicos del examen final, se detalla la integración de herramientas de IA generativa para la construcción del prototipo:
 
@@ -82,7 +84,7 @@ La IA redujo significativamente el tiempo de escritura de código repetitivo (*b
 
 ---
 
-## 🛠️ 3. Instrucciones de Ejecución Local
+## 3. Instrucciones de Ejecución Local
 
 1. **Ejecutar Pruebas de Reglas de Negocio:**
    ```bash

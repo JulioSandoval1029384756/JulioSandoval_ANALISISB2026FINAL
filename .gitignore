@@ -1,21 +1,8 @@
-# Archivos temporales y de compilación de .NET
-[Dd]ebug/
-[Rr]elease/
-x64/
-x86/
-bincode/
-bin/
-obj/
+# Ignorar todo en el repositorio por defecto
+*
 
-# Archivos de configuración de Visual Studio y VS Code
-.vs/
-.vscode/
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-# Base de datos local (evita que se rompa la subida)
-*.db
-*.db-journal
-*.db-wal
+# Excepciones: Permitir única y exclusivamente estos elementos
+!.gitignore
+!README.md
+!Capturas/
+!Capturas/**
