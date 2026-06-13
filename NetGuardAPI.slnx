@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NetGuardApp/NetGuardApp.csproj" />
+  <Project Path="NetGuardTests/NetGuardTests.csproj" />
+</Solution>

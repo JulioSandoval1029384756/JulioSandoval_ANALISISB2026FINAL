@@ -1,8 +1,8 @@
-# Ignorar todo en el repositorio por defecto
-*
-
-# Excepciones: Permitir única y exclusivamente estos elementos
-!.gitignore
-!README.md
-!Capturas/
-!Capturas/**
+bin/
+obj/
+.vs/
+.vscode/
+*.db
+*.db-journal
+*.db-wal
+node_modules/
